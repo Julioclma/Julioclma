@@ -1,4 +1,4 @@
-<h1 align = "justify"> Olá 👋 , me chamo Julio Mafra</h1>
+<h1 align = "justify"> Olá, me chamo Julio Mafra</h1>
 <p align = "justify">Sou Desenvolvedor na [Trade Up Group](https://www.tradeupgroup.com/), atuo diariamente com PHP, Laravel, Javascript, Jquery, HTML e MySQL</p>
 
 
