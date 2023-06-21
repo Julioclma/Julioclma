@@ -1,6 +1,6 @@
 # JulioMafra
 <h1 align = "justify"> Olá 👋 , me chamo Julio Mafra</h1>
-<p align = "justify">Sou Desenvolvedor Fullstack na [Trade Up Group](https://www.tradeupgroup.com/), atuo diariamente com PHP, Laravel, MySQL, MongoDB, Vue, React, React Native </p>
+<p align = "justify">Sou Desenvolvedor Fullstack na [Trade Up Group](https://www.tradeupgroup.com/), atuo diariamente com PHP, Laravel, Javascript, Jquery e MySQL</p>
 
 
 ### Sinta-se a vontade para entrar em contato comigo
