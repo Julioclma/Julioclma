@@ -3,7 +3,7 @@
 <p align = "justify">Sou Desenvolvedor Fullstack na [Trade Up Group](https://www.tradeupgroup.com/), atuo diariamente com PHP, Laravel, Javascript, Jquery e MySQL</p>
 
 
-### Sinta-se a vontade para entrar em contato comigo
+### Entre em contato comigo
 [![Linkedin Badge](https://img.shields.io/badge/-julio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julio-mafra-935297200/)]([https://www.linkedin.com/in/julio-mafra-935297200/](https://www.linkedin.com/in/julio-mafra-935297200/))
 [![Gmail Badge](https://img.shields.io/badge/-julioclmafra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julioclmafra@gmail.com)](mailto:julioclmafra@gmail.com)
 
