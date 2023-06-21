@@ -4,7 +4,7 @@
 
 
 ### Sinta-se a vontade para entrar em contato comigo
-[![Linkedin Badge](https://img.shields.io/badge/-julio-mafra-935297200-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julio-mafra-935297200/)]([https://www.linkedin.com/in/julio-mafra-935297200/](https://www.linkedin.com/in/julio-mafra-935297200/))
+[![Linkedin Badge](https://img.shields.io/badge/-julio-mafra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julio-mafra-935297200/)]([https://www.linkedin.com/in/julio-mafra-935297200/](https://www.linkedin.com/in/julio-mafra-935297200/))
 [![Gmail Badge](https://img.shields.io/badge/-julioclmafra@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julioclmafra@gmail.com)](mailto:julioclmafra@gmail.com)
 
 ## 🚀💻 Technologias e Skills
