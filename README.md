@@ -1,5 +1,5 @@
 <h1 align = "justify"> Olá, me chamo Julio Mafra</h1>
-  <p align = "justify">Sou Desenvolvedor na empresa Canetas Crown (https://www.canetascrown.com.br/), atuo diariamente com PHP, Laravel, Javascript, Jquery, HTML e MySQL</p>
+  <p align = "justify">Sou Desenvolvedor na empresa Eleven (https://www.linkedin.com/company/eleven-servicos-de-ti-e-telecom/), atuo diariamente com PHP, Laravel, Livewire, Docker, Javascript, Jquery, HTML e PostgreSQL</p>
 
 
 ### Entre em contato comigo
